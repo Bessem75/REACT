@@ -23,7 +23,7 @@ const LogIn = ({ onLogin }) => {
         alert("Une erreur est survenue.");
       }
     } catch (error) {
-      console.log(error.message);
+      console.log(error.message); 
     }
   };
   return (

@@ -57,4 +57,4 @@ const Header = ({ setData, setSearchCom, setSearchChar, token, setToken }) => {
   );
 };
 
-export default Header;
+export default Header; 

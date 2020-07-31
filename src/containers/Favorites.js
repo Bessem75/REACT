@@ -81,4 +81,4 @@ const Favorites = ({ fav, handleRemoveFav }) => {
   );
 };
 
-export default Favorites;
+export default Favorites; 

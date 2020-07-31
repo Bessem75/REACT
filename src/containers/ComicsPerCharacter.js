@@ -30,4 +30,4 @@ const ComicsPerCharacter = () => {
   );
 };
 
-export default ComicsPerCharacter;
+export default ComicsPerCharacter; 

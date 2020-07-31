@@ -58,4 +58,4 @@ const Comics = ({ search, setSearch, addFav, handleSubmit, searchData }) => {
   );
 };
 
-export default Comics;
+export default Comics; 

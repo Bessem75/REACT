@@ -16,4 +16,4 @@ const Search = ({ setSearch, search, handleSubmit }) => {
   );
 };
 
-export default Search;
+export default Search; 

@@ -13,4 +13,4 @@ const SearchResults = ({ data, category }) => {
   });
 };
 
-export default SearchResults;
+export default SearchResults; 

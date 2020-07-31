@@ -29,4 +29,4 @@ const ComicCard = ({ data, addFav, heart, cross, handleRemoveFav }) => {
   );
 };
 
-export default ComicCard;
+export default ComicCard; 

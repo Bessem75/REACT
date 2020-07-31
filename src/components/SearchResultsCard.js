@@ -18,4 +18,4 @@ const SearchResultsCard = ({ data, category }) => {
   );
 };
 
-export default SearchResultsCard;
+export default SearchResultsCard; 

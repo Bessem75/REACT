@@ -62,4 +62,4 @@ const SignUp = ({ onLogin }) => {
   );
 };
 
-export default SignUp;
+export default SignUp; 
